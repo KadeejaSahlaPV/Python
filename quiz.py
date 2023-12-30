@@ -27,7 +27,7 @@ states_and_capitals = {
     'Montana': 'Helena',
     'Nebraska': 'Lincoln',
     'Nevada': 'Carson City',
-    'New Hampshire: 'Concord',
+    'New Hampshire': 'Concord',
     'New Jersey': 'Trenton',
     'New Mexico': 'Santa Fe',
     'New York': 'Albany',
